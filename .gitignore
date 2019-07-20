@@ -1,0 +1,10 @@
+extension-dist/
+.settings/
+.idea/
+node_modules/
+typings/
+*.DS_Store
+.npmrc
+npm-debug.log
+.nvmrc
+yarn-error.log
